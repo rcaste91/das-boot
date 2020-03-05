@@ -19,6 +19,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
 
+/*
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(App.class)
 @WebIntegrationTest
@@ -37,4 +38,7 @@ public class ShipwreckControllerWebIntegrationTest {
 		assertThat(responseJson.isMissingNode(),is(false));
 		assertThat(responseJson.toString(), equalTo("[]"));
 	}
+	
 }
+
+*/

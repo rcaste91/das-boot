@@ -15,7 +15,7 @@ import com.boot.repository.ShipwreckRepository;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
-
+/*
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(App.class)
 public class ShipwreckRepositoryIntegrationTest {
@@ -30,3 +30,4 @@ public class ShipwreckRepositoryIntegrationTest {
 		assertThat(wrecks.size(),is(greaterThanOrEqualTo(0)));
 	}
 }
+*/

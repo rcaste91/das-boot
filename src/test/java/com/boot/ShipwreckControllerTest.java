@@ -18,6 +18,7 @@ import com.boot.repository.ShipwreckRepository;
 
 public class ShipwreckControllerTest {
 	
+	/*
 	@InjectMocks
 	private ShipwreckController sc;
 	@Mock
@@ -66,5 +67,5 @@ public class ShipwreckControllerTest {
 		assertEquals(wreck.getName(),wreckInsert.getName());
 		
 		
-	}
+	}*/
 }
